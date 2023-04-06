@@ -1,12 +1,13 @@
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/113993706/230391105-dad14440-73c7-402e-a9fe-7c29ad32a05d.png">
 
 <h3 align=“center”>Hi there 👋 I am <a href=“https://mercia-ravelontsoa-portfolio.netlify.app” target=“_blank” rel=“noreferrrer”> Mercia</a>
 <h3>
+  </p><br>
 
 # 💫 About Me:
-I am a passionate Blockchain Developer, building decentralised solutions for the future<br><br>💻 I am currently working on:<br>-Solidity and old smart contracts projects <br>-EVM based blockchains<br><br>  <br>🌱 I am currently learning: <br>-Solidity<br>-Javascript, Web3.js and Ether.js <br>-React<br><br>💪I am eager to acquire new knowledge and improve my skills. Currently, I am developing my online presence especially on Linkedin<br><br>🤔 I am looking for help with technical writing, ethical hacking and smart contract audit <br><br>💬 Ask me about Blockchain technology and Web 3<br><br>📨 How to reach me: mercia.ravelontsoa@gmail.com<br><br>✨ Fun fact: Less than 1% of the world have my personality (Advocate personality), working out and especially dance and boxing are my safe haven and I enjoy playing chess<br>
+I am a passionate Blockchain Developer, building decentralised solutions for the future<br><br>💻 I am currently working on:<br>-Solidity and previous smart contracts projects <br>-EVM based blockchains<br><br>  <br>🌱 I am currently learning: <br>-Solidity<br>-Javascript, Web3.js and Ether.js <br>-React<br><br>💪I am eager to acquire new knowledge and improve my skills. Currently, I am developing my online presence especially on Linkedin<br><br>🤔 I am looking for help with technical writing, ethical hacking and smart contract audit <br><br>💬 Ask me about Blockchain technology and Web 3<br><br>📨 How to reach me: mercia.ravelontsoa@gmail.com<br><br>✨ Fun fact: Less than 1% of the world have my personality (Advocate personality), working out and especially dance and boxing are my safe haven and I enjoy playing chess<br>
 
 
 ## 🤝 Connect with me
