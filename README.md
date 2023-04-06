@@ -26,7 +26,7 @@ I am a passionate Blockchain Developer, building decentralised solutions for the
 [![](https://visitcount.itsvg.in/api?id=Mercia222&icon=0&color=11)](https://visitcount.itsvg.in)
 
 
-# <img src="https://media.giphy.com/media/KDPIW2bywzQivWq64Q/giphy.gif" width="40"> Random Dev Quote: 
+## <img src="https://media.giphy.com/media/KDPIW2bywzQivWq64Q/giphy.gif" width="40"> Random Dev Quote: 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
