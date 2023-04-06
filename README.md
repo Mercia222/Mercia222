@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113993706/230391105-dad14440-73c7-402e-a9fe-7c29ad32a05d.png">
 
-<h3 align=“center”>Hi there 👋 I am <a href=“https://mercia-ravelontsoa-portfolio.netlify.app” target=“_blank”> Mercia</a>
+<h3 align=“center”>Hi there 👋 I am <a target=“_blank” href=“https://mercia-ravelontsoa-portfolio.netlify.app” > Mercia</a>
 <h3>
   </p><br>
 
