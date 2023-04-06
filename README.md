@@ -7,7 +7,7 @@
   <br> 
 
 #  💫 About Me:
-I am a passionate Blockchain Developer, building decentralised solutions for the future<br><br>  <br>🌱 I am currently learning: <br>-Blockchain engineeering, Solidity and EVM based blockchains<br>-Web3 <br>-React<br>-Technical writing<br><br>💪I am eager to acquire new knowledge and improve my skills. Currently, I am developing my online presence especially on Linkedin<br><br>🤔 I am looking for help with technical writing, ethical hacking and smart contract audit <br><br>💬 Ask me about Blockchain technology and Web 3<br><br>📨 How to reach me: mercia.ravelontsoa@gmail.com<br><br>✨ Fun fact: Less than 1% of the world have my personality (Advocate personality). Working out, dancing and boxing are my safe haven. I also enjoy playing chess<br>
+I am a passionate Blockchain Developer, building decentralised solutions for the future<br><br>🌱 I am currently learning: <br>-Blockchain engineeering, Solidity and EVM based blockchains<br>-Web3 <br>-React<br>-Technical writing<br><br>💪I am eager to acquire new knowledge and improve my skills. Currently, I am developing my online presence especially on Linkedin<br><br>🤔 I am looking for help with technical writing, ethical hacking and smart contract audit <br><br>💬 Ask me about Blockchain technology and Web 3<br><br>📨 How to reach me: mercia.ravelontsoa@gmail.com<br><br>✨ Fun fact: Less than 1% of the world have my personality (Advocate personality). Working out, dancing and boxing are my safe haven. I also enjoy playing chess<br>
 
 
 ## <img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="40"> Connect with me
