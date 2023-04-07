@@ -3,7 +3,6 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -18,6 +17,8 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       - run: git status
+      - name: Set output
+        run: echo "::set-env name=MY_OUTPUT::$(cat dist/github-contribution-grid-snake.gif)"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -30,4 +31,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          MY_OUTPUT: ${{ env.MY_OUTPUT }}
