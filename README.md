@@ -29,7 +29,7 @@ I am a passionate Blockchain Developer, building decentralised solutions for the
 ## <img src="https://media.giphy.com/media/KDPIW2bywzQivWq64Q/giphy.gif" width="40"> Random Dev Quote: 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ✍🏽 Contribution graph 
+## ✍🏽 My Contribution graph 
 ![snake gif](https://github.com/Mercia222/Mercia222/blob/output/github-contribution-grid-snake.gif)
 
 
