@@ -1,6 +1,6 @@
 
 
-//<img src="https://user-images.githubusercontent.com/113993706/230391105-dad14440-73c7-402e-a9fe-7c29ad32a05d.png">
+<--<img src="https://user-images.githubusercontent.com/113993706/230391105-dad14440-73c7-402e-a9fe-7c29ad32a05d.png">-->
 
 <h3 align=“center”>Hi there <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="55"> I am <a target=“_blank” href=“https://mercia-ravelontsoa-portfolio.netlify.app” > Mercia</a>, 
 <h3>
